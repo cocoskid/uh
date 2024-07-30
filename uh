@@ -554,7 +554,7 @@ kr.ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 kr.ImageLabel.BackgroundTransparency = 1.000
 kr.ImageLabel.Position = UDim2.new(0, 3, 0, 15)
 kr.ImageLabel.Size = UDim2.new(0, 34, 0, 19)
-kr.ImageLabel.Image = "http://www.roblox.com/asset/?id=6034983856"
+kr.ImageLabel.Image = ""
 kr.ImageLabel.ImageColor3 = Color3.fromRGB(164, 165, 173)
 kr.ImageLabel.ScaleType = Enum.ScaleType.Fit
 
@@ -1544,7 +1544,7 @@ kr.TextLabel_24.Position = UDim2.new(0, 401, 0, 20)
 kr.TextLabel_24.Size = UDim2.new(0, 134, 0, 16)
 kr.TextLabel_24.ZIndex = 999999999
 kr.TextLabel_24.Font = Enum.Font.ArialBold
-kr.TextLabel_24.Text = "24 Hours"
+kr.TextLabel_24.Text = "Dev Build"
 kr.TextLabel_24.TextColor3 = Color3.fromRGB(208, 208, 208)
 kr.TextLabel_24.TextSize = 15.000
 kr.TextLabel_24.TextWrapped = true
